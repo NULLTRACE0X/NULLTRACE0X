@@ -43,17 +43,12 @@
 
 ## 🔥 Pinned Projects
 
-- 🔓 [`nulltrace-shell`](https://github.com/NullTrace/nulltrace-shell): Lightweight C++ interactive shell  
-- 🌐 [`tor-crawler`](https://github.com/NullTrace/tor-crawler): Python tool for safe darknet crawling  
-- 🧠 [`reverse-lab`](https://github.com/NullTrace/reverse-lab): Malware RE playground  
-- ⚙️ [`crackme-series`](https://github.com/NullTrace/crackme-series): CTF-style keygen challenges
-
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NullTrace&show_icons=true&theme=radical" alt="NullTrace's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=NullTrace&show_icons=true&theme=dark" alt="NullTrace's GitHub stats">
 </p>
 
 ---
