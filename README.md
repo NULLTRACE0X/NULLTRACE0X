@@ -68,6 +68,6 @@ GNU General Public License v3.0
 
 ## 📡 Contact
 
-- Telegram: [@NullTrace](https://t.me/NullTrace)
+- Telegram: [[@NullTrace](https://t.me/NULLTRACE0X)]
 - Email: nulltrace@protonmail.com
-- PGP: [View Key](https://yourpgplink.dev)
+
