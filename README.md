@@ -42,7 +42,7 @@
 ---
 
 ## 🔥 Pinned Projects
-
+- 🪐 [`sap netweaver visual composer`](https://github.com/NULLTRACE0X/CVE-2025-31324)
 ---
 
 ## 📈 GitHub Stats
