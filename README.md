@@ -45,13 +45,6 @@
 - 🪐 [`sap netweaver visual composer`](https://github.com/NULLTRACE0X/CVE-2025-31324)
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NullTrace&show_icons=true&theme=cobalt" alt="NullTrace's GitHub stats">
-</p>
-
----
 
 ## 🔐 License
 
