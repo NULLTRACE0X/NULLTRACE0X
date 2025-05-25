@@ -1,7 +1,7 @@
 <h1 align="center">👾 NullTrace</h1>
 <p align="center">
   <i>"No logs. No noise. Just signal."</i><br>
-  <b>Hacker. Developer. Privacy Advocate.</b>
+  <b>Pentester / Developer. Privacy Advocate.</b>
 </p>
 
 ---
